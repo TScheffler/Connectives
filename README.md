@@ -6,7 +6,7 @@ Stuff related to discourse connectives
 
 **English lexicon of discourse connectives.**
 
-This lexicon was extracted from the Penn Discourse Treebank (PDTB) 2.0 corpus by Tatjana Scheffler (University of Potsdam, Germany). It reflects the range of connectives and sense annotations represented in that corpus.
+This lexicon was extracted from the Penn Discourse Treebank (PDTB) 2.0 corpus by Tatjana Scheffler (University of Potsdam, Germany). It reflects the range of explicit connectives and sense annotations represented in that corpus.
 
 The lexicon is formatted in the style of the German [DiMLex](https://github.com/discourse-lab/dimlex) discourse marker lexicon.
 
