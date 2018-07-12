@@ -742,9 +742,9 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="95" word="in sum">
+   <entry id="94" word="in sum">
       <orths>
-         <orth canonical="0" orth_id="95o1" type="cont">
+         <orth canonical="0" orth_id="94o1" type="cont">
             <part type="phrasal">In sum</part>
          </orth>
       </orths>
@@ -901,9 +901,9 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="97" word="insofar as">
+   <entry id="96" word="insofar as">
       <orths>
-         <orth canonical="0" orth_id="97o1" type="cont">
+         <orth canonical="0" orth_id="96o1" type="cont">
             <part type="phrasal">Insofar as</part>
          </orth>
       </orths>
@@ -1045,9 +1045,9 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="99" word="as an alternative">
+   <entry id="98" word="as an alternative">
       <orths>
-         <orth canonical="0" orth_id="99o1" type="cont">
+         <orth canonical="0" orth_id="98o1" type="cont">
             <part type="phrasal">As an alternative</part>
          </orth>
       </orths>
@@ -1122,12 +1122,12 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="94" word="for">
+   <entry id="93" word="for">
       <orths>
-         <orth canonical="1" orth_id="94o1" type="cont">
+         <orth canonical="1" orth_id="93o1" type="cont">
             <part type="single">for</part>
          </orth>
-         <orth canonical="0" orth_id="94o2" type="cont">
+         <orth canonical="0" orth_id="93o2" type="cont">
             <part type="single">For</part>
          </orth>
       </orths>
@@ -1361,12 +1361,12 @@
          <modifier>minutes</modifier>
       </pdtb_modifiers>
    </entry>
-   <entry id="93" word="simultaneously">
+   <entry id="92" word="simultaneously">
       <orths>
-         <orth canonical="0" orth_id="93o1" type="cont">
+         <orth canonical="0" orth_id="92o1" type="cont">
             <part type="single">Simultaneously</part>
          </orth>
-         <orth canonical="1" orth_id="93o2" type="cont">
+         <orth canonical="1" orth_id="92o2" type="cont">
             <part type="single">simultaneously</part>
          </orth>
       </orths>
@@ -1532,7 +1532,7 @@
    </entry>
    <entry id="78" word="neither nor">
       <orths>
-         <orth canonical="1" orth_id="78o1" type="discont">
+         <orth orth_id="78o1" type="discont">
             <part type="single">neither</part>
             <part type="single">nor</part>
          </orth>
@@ -1571,11 +1571,11 @@
    </entry>
    <entry id="41" word="either or">
       <orths>
-         <orth canonical="0" orth_id="41o1" type="discont">
+         <orth canonical="1" orth_id="41o1" type="discont">
             <part type="single">Either</part>
             <part type="single">or</part>
          </orth>
-         <orth canonical="1" orth_id="41o2" type="discont">
+         <orth orth_id="41o2" type="discont">
             <part type="single">either</part>
             <part type="single">or</part>
          </orth>
@@ -1597,12 +1597,12 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="89" word="hence">
+   <entry id="88" word="hence">
       <orths>
-         <orth canonical="0" orth_id="89o1" type="cont">
+         <orth canonical="0" orth_id="88o1" type="cont">
             <part type="single">Hence</part>
          </orth>
-         <orth canonical="1" orth_id="89o2" type="cont">
+         <orth canonical="1" orth_id="88o2" type="cont">
             <part type="single">hence</part>
          </orth>
       </orths>
@@ -1999,12 +1999,12 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="91" word="accordingly">
+   <entry id="90" word="accordingly">
       <orths>
-         <orth canonical="0" orth_id="91o1" type="cont">
+         <orth canonical="0" orth_id="90o1" type="cont">
             <part type="single">Accordingly</part>
          </orth>
-         <orth canonical="1" orth_id="91o2" type="cont">
+         <orth canonical="1" orth_id="90o2" type="cont">
             <part type="single">accordingly</part>
          </orth>
       </orths>
@@ -2042,9 +2042,9 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="92" word="on the contrary">
+   <entry id="91" word="on the contrary">
       <orths>
-         <orth canonical="0" orth_id="92o1" type="cont">
+         <orth canonical="0" orth_id="91o1" type="cont">
             <part type="phrasal">On the contrary</part>
          </orth>
       </orths>
@@ -2092,7 +2092,7 @@
          <orth canonical="0" orth_id="8o1" type="cont">
             <part type="single">Until</part>
          </orth>
-         <orth canonical="1" orth_id="8o2" type="cont">
+         <orth canonical="0" orth_id="8o2" type="cont">
             <part type="single">until</part>
          </orth>
       </orths>
@@ -2142,11 +2142,11 @@
    </entry>
    <entry id="68" word="if then">
       <orths>
-         <orth canonical="0" orth_id="68o1" type="discont">
+         <orth canonical="1" orth_id="68o1" type="discont">
             <part type="single">If</part>
             <part type="single">then</part>
          </orth>
-         <orth canonical="1" orth_id="68o2" type="discont">
+         <orth orth_id="68o2" type="discont">
             <part type="single">if</part>
             <part type="single">then</part>
          </orth>
@@ -2176,9 +2176,9 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="96" word="when and if">
+   <entry id="95" word="when and if">
       <orths>
-         <orth canonical="0" orth_id="96o1" type="cont">
+         <orth canonical="0" orth_id="95o1" type="cont">
             <part type="phrasal">When and if</part>
          </orth>
       </orths>
@@ -2280,9 +2280,9 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="98" word="else">
+   <entry id="97" word="else">
       <orths>
-         <orth canonical="1" orth_id="98o1" type="cont">
+         <orth canonical="1" orth_id="97o1" type="cont">
             <part type="single">else</part>
          </orth>
       </orths>
@@ -2291,21 +2291,6 @@
          <sem>
             <pdtb2_relation anno_N="1" freq="1" sense="Expansion.Alternative" />
             <example>It must be able to handle most of the complaints that cannot be solved in the trenches by managers and their subordinates, else the company court or adjudicators will be inundated with cases</example>
-         </sem>
-      </syn>
-      <pdtb_modifiers />
-   </entry>
-   <entry id="88" word="And">
-      <orths>
-         <orth canonical="1" orth_id="88o1" type="cont">
-            <part type="single">And</part>
-         </orth>
-      </orths>
-      <syn>
-         <cat>CC</cat>
-         <sem>
-            <pdtb2_relation anno_N="1" freq="1" sense="Expansion.List" />
-            <example>Mourning for the father is overshadowed by the shame of burying him in a pauper's grave. The family moves to another house at night to conceal shabby belongings from neighbors. And the successful son wishes his embarrassing siblings dead</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -2400,73 +2385,73 @@
       <syn>
          <cat>CC</cat>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="209" sense="Expansion.List" />
+            <pdtb2_relation anno_N="3000" freq="210" sense="Expansion.List" />
             <example>He's wise, he's good and I know he's an honest man</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="2" sense="Contingency.Condition.Hypothetical" />
+            <pdtb2_relation anno_N="3000" freq="2" sense="Contingency.Condition.Hypothetical" />
             <example>Give me four or five more Series with these guys, and I don't care if I ever win a Cy Young</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="13" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="3000" freq="13" sense="Comparison.Contrast.Juxtaposition" />
             <example>The best baseball teams win six of 10 games and the worst win four of 10</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="2689" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="3000" freq="2689" sense="Expansion.Conjunction" />
             <example>that if I look at it, and I'm not on it</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Instantiation" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Expansion.Instantiation" />
             <example>Some shows just don't impress, he says, and this is one of them</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="3" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="3000" freq="3" sense="Comparison.Contrast" />
             <example>Auto prices had a big effect in the PPI, and at the CPI level they won't</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="65" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="3000" freq="65" sense="Contingency.Cause.Result" />
             <example>But he wanted to pursue his own dream, and he went</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Expansion" />
             <example>Such bonds are very sensitive to the downside, and this could be a disaster</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="5" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="3000" freq="5" sense="Comparison.Contrast.Opposition" />
             <example>Of the 4,346 issues that changed hands, 1,435 rose and 629 fell</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Comparison.Concession.Contra-expectation" />
             <example>Even if baseball triggers losses at CBS -- and he doesn't think it will</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Generalization" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Expansion.Restatement.Generalization" />
             <example>Add it all up and it means "that the Fed has a little leeway to ease its credit policy stance without the risk of rekindling inflation</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="5" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="3000" freq="5" sense="Temporal.Asynchronous.Precedence" />
             <example>Wait for the market to bounce back, and sell shares gradually during rallies</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Expansion.Restatement.Specification" />
             <example>In fact, there's only one person involved who's happy, and that's Floyd String, president of Coin Wrap and conceiver of the cement-truck solution</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Contingency.Condition.General" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Contingency.Condition.General" />
             <example>You go to any medium-sized town in the U.S. and you're going to see H&amp;R Block tax services</example>
          </sem>
       </syn>
       <syn>
          <cat>JJ</cat>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Expansion.Conjunction" />
             <example>Such individuals, many with young children, are in their prime borrowing years -- and, having borrowed from the bank, they may continue to use it for other services in later years</example>
          </sem>
       </syn>
       <syn>
          <cat>NN</cat>
          <sem>
-            <pdtb2_relation anno_N="2999" freq="1" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="3000" freq="1" sense="Expansion.Conjunction" />
             <example>what's hot -- and what's not</example>
          </sem>
       </syn>
@@ -2750,7 +2735,7 @@
    </entry>
    <entry id="43" word="in turn">
       <orths>
-         <orth canonical="1" orth_id="43o1" type="cont">
+         <orth canonical="0" orth_id="43o1" type="cont">
             <part type="phrasal">in turn</part>
          </orth>
       </orths>
@@ -2786,17 +2771,11 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="100" word="on the one hand on the other hand">
+   <entry id="99" word="on the one hand on the other hand">
       <orths>
-         <orth canonical="0" orth_id="100o1" type="discont">
-            <part type="single">On</part>
-            <part type="single">the</part>
-            <part type="single">one</part>
-            <part type="single">hand</part>
-            <part type="single">On</part>
-            <part type="single">the</part>
-            <part type="single">other</part>
-            <part type="single">hand</part>
+         <orth canonical="1" orth_id="99o1" type="discont">
+            <part type="phrasal">On the one hand</part>
+            <part type="phrasal">On the other hand</part>
          </orth>
       </orths>
       <syn>
@@ -3833,12 +3812,12 @@
       </syn>
       <pdtb_modifiers />
    </entry>
-   <entry id="90" word="by then">
+   <entry id="89" word="by then">
       <orths>
-         <orth canonical="1" orth_id="90o1" type="cont">
+         <orth canonical="1" orth_id="89o1" type="cont">
             <part type="phrasal">by then</part>
          </orth>
-         <orth canonical="0" orth_id="90o2" type="cont">
+         <orth canonical="0" orth_id="89o2" type="cont">
             <part type="phrasal">By then</part>
          </orth>
       </orths>
