@@ -108,36 +108,6 @@
          </orth>
       </orths>
       <syn>
-         <cat>INTJ</cat>
-         <sem>
-            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Contrast" />
-            <example>It still doesn't look like governments are coughing up everything they know. Still, despite their efforts to convince the world that we are indeed alone, the visitors do seem to keep coming and, like the recent sightings, there's often a detail or two that suggests they may actually be a little on the dumb side</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession.Contra-expectation" />
-            <example>The government and the ANC, the bitterest of enemies, are engaged in an elaborate mating dance designed to entice each other to the negotiating table. Pretoria releases the ANC leaders, most of whom were serving life sentences, and allows them to speak freely, hoping that the ANC will abandon its use of violence. The ANC leaders speak in tones of moderation, emphasizing discipline, hoping the government will be encouraged to take further steps, such as freeing Nelson Mandela, the most prominent ANC figure, and unbanning the organization.  The government of President F.W. de Klerk is using this situation to improve its international image and head off further economic sanctions. Meanwhile, the many organizations inside the country that back the ANC are taking the opportunity to regain their strength and mobilize their supporters even though the state of emergency, which has severely curtailed black opposition, remains in force.  The result is that the unthinkable and illogical are happening. Six months ago, government approval for an ANC rally was inconceivable. Equally inconceivable is that the ANC, given the chance to hold a rally, would extend a hand, albeit warily, to the government. In a message read out at the rally, exiled ANC President Oliver Tambo, who can't legally be quoted in South Africa, said the country was at a crossroads and that Mr. de Klerk "may yet earn a place among the peacemakers of our country" if he chooses a "path of genuine political settlement."  Still, this doesn't mean that either the government or the ANC is changing stripes -- or that either has moved significantly closer to the other</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP-TMP</cat>
-         <sem>
-            <pdtb2_relation anno_N="190" freq="14" sense="Comparison.Contrast" />
-            <example>James A. Toney, a vice president, sold 1,500 shares Aug. 28. He still has 1,143 shares, according to SEC files</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="190" freq="7" sense="Comparison.Contrast.Juxtaposition" />
-            <example>If the {new} deal had us putting up less money but still having 15%</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="190" freq="15" sense="Comparison.Concession.Contra-expectation" />
-            <example>that excluding food and energy, the producer price index still increased by 0.7%</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Contrast.Opposition" />
-            <example>the C$30-a-share bid, which was due to expire Monday, may still be extended or varied</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="190" freq="8" sense="Comparison" />
@@ -148,23 +118,23 @@
             <example>It's been a steadily improving relationship," says Mr. Carpenter.  Still, without many actual deals to show off, Kidder is left to stress that it finally has "a team" in place, and that everyone works harder</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="16" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="190" freq="23" sense="Comparison.Contrast.Juxtaposition" />
             <example>The U.S. can make mistakes and still hope to remove him from power</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="4" sense="Comparison.Contrast.Opposition" />
-            <example>First Boston Corp. projects that 10 of the 15 companies it follows will report lower profit. Most of the 10 have big commodity-chemical operations.  Still, some industry giants are expected to report continuing gains</example>
+            <pdtb2_relation anno_N="190" freq="5" sense="Comparison.Contrast.Opposition" />
+            <example>the C$30-a-share bid, which was due to expire Monday, may still be extended or varied</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="64" sense="Comparison.Concession.Contra-expectation" />
-            <example>He's not thinking about home runs anymore, just base hits. Still, "how sweet it is," he says</example>
+            <pdtb2_relation anno_N="190" freq="79" sense="Comparison.Concession.Contra-expectation" />
+            <example>that excluding food and energy, the producer price index still increased by 0.7%</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="190" freq="2" sense="Temporal.Asynchronous.Precedence" />
             <example>and after the ambulance left, there were still six people in line waiting for a massage</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="190" freq="52" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="190" freq="66" sense="Comparison.Contrast" />
             <example>the firm will be able to service debt and still turn a modest profit</example>
          </sem>
          <sem>
@@ -174,6 +144,17 @@
          <sem>
             <pdtb2_relation anno_N="190" freq="1" sense="Temporal.Synchrony" />
             <example>in outlawing program trading. Those who still want to do it</example>
+         </sem>
+      </syn>
+      <syn>
+         <cat>INTJ</cat>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="2" sense="Comparison.Contrast" />
+            <example>It still doesn't look like governments are coughing up everything they know. Still, despite their efforts to convince the world that we are indeed alone, the visitors do seem to keep coming and, like the recent sightings, there's often a detail or two that suggests they may actually be a little on the dumb side</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="190" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <example>The government and the ANC, the bitterest of enemies, are engaged in an elaborate mating dance designed to entice each other to the negotiating table. Pretoria releases the ANC leaders, most of whom were serving life sentences, and allows them to speak freely, hoping that the ANC will abandon its use of violence. The ANC leaders speak in tones of moderation, emphasizing discipline, hoping the government will be encouraged to take further steps, such as freeing Nelson Mandela, the most prominent ANC figure, and unbanning the organization.  The government of President F.W. de Klerk is using this situation to improve its international image and head off further economic sanctions. Meanwhile, the many organizations inside the country that back the ANC are taking the opportunity to regain their strength and mobilize their supporters even though the state of emergency, which has severely curtailed black opposition, remains in force.  The result is that the unthinkable and illogical are happening. Six months ago, government approval for an ANC rally was inconceivable. Equally inconceivable is that the ANC, given the chance to hold a rally, would extend a hand, albeit warily, to the government. In a message read out at the rally, exiled ANC President Oliver Tambo, who can't legally be quoted in South Africa, said the country was at a crossroads and that Mr. de Klerk "may yet earn a place among the peacemakers of our country" if he chooses a "path of genuine political settlement."  Still, this doesn't mean that either the government or the ANC is changing stripes -- or that either has moved significantly closer to the other</example>
          </sem>
       </syn>
       <pdtb_modifiers>
@@ -300,20 +281,13 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-PRD</cat>
-         <sem>
-            <pdtb2_relation anno_N="1746" freq="2" sense="Expansion.Conjunction" />
-            <example>Silver and platinum, which have more of an industrial nature than gold, were even weaker, he said. Silver is also under pressure of "extremely high" inventories in warehouses of the Commodity Exchange</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="1746" freq="10" sense="Expansion.List" />
             <example>Coca-Cola Co. was unchanged at 66 3/4; McDonald's also closed unchanged at 30 1/2</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="1746" freq="1712" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="1746" freq="1714" sense="Expansion.Conjunction" />
             <example>who had done so much, but who was also a manic-depressive</example>
          </sem>
          <sem>
@@ -373,7 +347,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>PP-TMP</cat>
+         <cat>PP</cat>
          <sem>
             <pdtb2_relation anno_N="15" freq="1" sense="Temporal.Asynchronous.Succession" />
             <example>that food-importing nations would eventually become self-sufficient in a free-market system, the poorest nations are likely to need help in the meantime</example>
@@ -392,7 +366,7 @@
          </sem>
       </syn>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="15" freq="1" sense="Expansion.Conjunction" />
             <example>casting a pall over much of the junk market. Michael McNamara, director of fixed-income research at Kemper Financial Services, says the quality of junk issues has been getting poorer, contributing to the slide in prices.  "Last year we probably bought one out of every three new deals," he says. "This year, at best, it's in one in every five or six. And our credit standards haven't changed one iota." However, Mr. McNamara said the slide in junk is creating "one hell of a buying opportunity" for selective buyers.  For the moment, investors seem more preoccupied with the "bad" junk than the "good" junk. "The market has been weak since" the announcement of the Campeau cash squeeze and the company's subsequent bailout by Olympia &amp; York, says Mr. Minella of Merrill Lynch. "That really affected the market in that people started to ask 'What else is in trouble? '"  Well before Campeau, though, there were signs that the junk market was stumbling through one of its worst years ever. Despite the relatively strong economy, junk bond prices did nothing except go down, hammered by a seemingly endless trail of bad news:  -- In June, two months before it would default on interest payments covering some of its $1.2 billion of speculative debt securities, New York-based Integrated Resources Inc. said it ran out of borrowed money.  -- In July, Southmark Corp., the Dallas-based real estate and financial services company with about $1.3 billion of junk bonds, voluntarily filed for protection under U.S. bankruptcy law. -- By the end of July, the difference in yield between an index of junk bonds and seven-year Treasury notes widened to more than 5.5 percentage points.  -- In August, Resorts International Inc., which sold more than $500 million of junk bonds, suspended interest payments.  -- In September, just as the cash squeeze hit Campeau, Lomas Financial Corp. defaulted on $145 million of notes and appeared unlikely to pay interest on a total of $1.2 billion of debt securities.  Meantime, regulators are becoming increasingly worried as the rush to leverage shows no signs of abating</example>
@@ -414,35 +388,20 @@
       <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="32" freq="5" sense="Expansion.List" />
-            <example>First of all, it is a friendly acquisition in which Rockefeller sought out Mitsubishi Estate and asked it to buy a majority share. Secondly, the two companies found a similarity in their business and development philosophies and intend to cooperate in a range of activities from real estate to telecommunications. Finally, Mitsubishi Estate has no plans to interfere with Rockefeller's management beyond taking a place on the board</example>
+            <pdtb2_relation anno_N="32" freq="7" sense="Expansion.List" />
+            <example>Was there a fiduciary breach in order to obtain personal gain? Did Mr. Freeman have notice of this? Finally, was the information material</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="32" freq="12" sense="Temporal.Asynchronous.Precedence" />
             <example>but the sale sputtered almost from the beginning and finally collapsed last week</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="32" freq="8" sense="Expansion.Conjunction" />
-            <example>Imprisoned by the Nazis during World War II for his political beliefs, Mr. Honecker typified the postwar generation of committed Communist leaders in Eastern Europe who took their cues from Moscow.  He was a "socialist warrior" who felt rankled by West Germany's enormous postwar prosperity and the Bonn government's steadfast refusal to recognize the legitimacy of his state. Finally, during his first and only state visit to Bonn two years ago, he won some measure of the recognition he had long sought</example>
+            <pdtb2_relation anno_N="32" freq="12" sense="Expansion.Conjunction" />
+            <example>Mr. Dinkins lost twice by wide margins before finally getting elected borough president in 1985</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="32" freq="1" sense="Expansion" />
             <example>She made money, but spent more. Friends pitched in. Finally, Prince Rainier and Princess Grace saved her with the offer of a house in Monaco</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP-TMP</cat>
-         <sem>
-            <pdtb2_relation anno_N="32" freq="2" sense="Expansion.List" />
-            <example>Was there a fiduciary breach in order to obtain personal gain? Did Mr. Freeman have notice of this? Finally, was the information material</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="32" freq="6" sense="Temporal.Asynchronous.Precedence" />
-            <example>that allegedly sat on damaging evidence of overcharges from 1983 to 1985, despite warnings from an internal auditor. When GE finally disclosed the problems</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="32" freq="4" sense="Expansion.Conjunction" />
-            <example>Mr. Dinkins lost twice by wide margins before finally getting elected borough president in 1985</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -481,28 +440,26 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP-2</cat>
+         <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence" />
-            <example>that anyone proposing a merger must make a filing describing the effects on all relevant markets. The Hart-Scott filing is then reviewed and any antitrust concerns usually met</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP-TMP=2</cat>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Asynchronous.Precedence" />
-            <example>driving her husband first to despair and then to Argentina</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP-TMP</cat>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List" />
+            <pdtb2_relation anno_N="340" freq="2" sense="Expansion.List" />
             <example>Remember Pinocchio?" says a female voice. "Consider Jim Courter."  And then this commercial, produced by Bob Squier, gets down to its own mean and dirty business</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="2" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="340" freq="8" sense="Expansion.Conjunction" />
             <example>Mr. Maynard's forces finally defeated the measure, though it took a vote on the floor of the House of Representatives to do it. Even then, opponents managed to get a congressional hearing to examine what one congressman called an "unscrupulous" method for breaking eggs</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Comparison" />
+            <example>Supposedly, he proposed the movie to his producer, Claude Berri, in four lines: "An orphan bear cub. A big solitary bear. Two hunters in the forest. The animals' point of view."  But then, even a great many words couldn't summarize the extraordinary pull of this movie about an orphaned bear who adopts a parent</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.Alternative" />
+            <example>The antitrust division of the Justice Department is investigating the oddly similar tuition charges and increases among the top schools. Fear of the price police could help cool things off in the 1990s.  And then there's always State U</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="340" freq="4" sense="Contingency.Cause.Result" />
+            <example>Underclass youth are a special concern. Are such expenditures worthwhile, then</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="340" freq="1" sense="Contingency.Condition.Unreal present" />
@@ -513,11 +470,11 @@
             <example>they will have to take everything I've got -- and even then I don't know if it will be enough</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="159" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="340" freq="231" sense="Temporal.Asynchronous.Precedence" />
             <example>And when they lose, then we can expect China to stop aid</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="340" freq="4" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="340" freq="5" sense="Temporal.Synchrony" />
             <example>Last fall, Ford announced it would discontinue the XR4Ti in the U.S. at the end of the 1989 model year. Ford said then it would keep the Scorpio</example>
          </sem>
       </syn>
@@ -538,37 +495,6 @@
          <sem>
             <pdtb2_relation anno_N="340" freq="1" sense="Comparison.Contrast" />
             <example>To many, it was a ceremony more befitting a king than a rural judge seated in the isolated foothills of the southern Allegheny Mountains. But then Judge O'Kicki often behaved like a man who would be king -- and, some say, an arrogant and abusive one</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP</cat>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.List" />
-            <example>One is the Pao, a tiny coupe with a peelback canvas top and tilted headlights that give it a droopy-eyed look. Nissan initially planned to sell just 10,000 Paos, but sales have passed 50,000, and there's a one-year waiting list for the car. Then, there's the S-Cargo, an offbeat delivery van with a snail-like body that inspired its name</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="6" sense="Expansion.Conjunction" />
-            <example>Names of possible deputies that have surfaced include former mayoral candidate Richard Ravitch, former schools chancellor Frank Macchiarola and Messrs. Leventhal and Gliedman.  Then there are Mr. Dinkins's old-time Harlem colleagues, such as U.S. Rep. Rangel, former Deputy Mayor Paterson and Mr. Sutton</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Comparison" />
-            <example>Supposedly, he proposed the movie to his producer, Claude Berri, in four lines: "An orphan bear cub. A big solitary bear. Two hunters in the forest. The animals' point of view."  But then, even a great many words couldn't summarize the extraordinary pull of this movie about an orphaned bear who adopts a parent</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Expansion.Alternative" />
-            <example>The antitrust division of the Justice Department is investigating the oddly similar tuition charges and increases among the top schools. Fear of the price police could help cool things off in the 1990s.  And then there's always State U</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="4" sense="Contingency.Cause.Result" />
-            <example>Underclass youth are a special concern. Are such expenditures worthwhile, then</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="70" sense="Temporal.Asynchronous.Precedence" />
-            <example>to have made use of the Khmer Rouge and then discard them</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="340" freq="1" sense="Temporal.Synchrony" />
-            <example>for South African debtors to make repayments in eight installments, starting in December of next year. The redemption then would be at 1.5% of the total debt, increasing to 2.5% in February 1991, and to 3% at six-month intervals thereafter</example>
          </sem>
       </syn>
       <pdtb_modifiers>
@@ -600,59 +526,36 @@
          </orth>
       </orths>
       <syn>
-         <cat>PP-TMP</cat>
+         <cat>PP</cat>
          <sem>
             <pdtb2_relation anno_N="193" freq="1" sense="Temporal.Synchrony" />
             <example>they're piggybacking on our reputation." But she has no problem with that, she says: "In the meanwhile, they're helping us</example>
          </sem>
       </syn>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="193" freq="53" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="193" freq="70" sense="Expansion.Conjunction" />
             <example>South Carolina deserves an A for its quick and timely relief efforts. Mr. Laband, meanwhile, gets an A for his rote recital of economic-efficiency arguments</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="16" sense="Comparison.Contrast.Juxtaposition" />
+            <pdtb2_relation anno_N="193" freq="17" sense="Comparison.Contrast.Juxtaposition" />
             <example>When Mr. Korotich took it over in 1986, it sold 250,000 copies; today it sells 3.4 million. Pravda, meanwhile, has retained only 57% of its 1986 readership</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="5" sense="Comparison.Contrast.Opposition" />
-            <example>By the second half of 1990, USAir stock could hit 60, says Helane Becker of Shearson Lehman Hutton. She thinks traders should buy the stock if it tumbles to 35.  But meanwhile, USAir is expected to show losses or lackluster profit for several quarters as it tries to digest Piedmont Airlines, which it acquired</example>
+            <pdtb2_relation anno_N="193" freq="6" sense="Comparison.Contrast.Opposition" />
+            <example>Leading indicators rose a slight 0.2% in September, a further indication the economy is slowing but without any clear sign of whether a recession looms. Meanwhile, new-home sales plunged 14% in the month</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Concession.Contra-expectation" />
             <example>A further decline in prices will lead to mine production cuts in the U.S., he says. Scrap merchants are converting smaller quantities of metal into silver, while low prices are discouraging exports from India and the Soviet Union. Silver prices could also be boosted by strikes in leading producing nations Peru and Mexico, Mr. Demler says.  Meanwhile, total fabrication demand for silver has risen six years in a row</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="4" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="193" freq="5" sense="Comparison.Contrast" />
             <example>Many clothiers, especially Ralph Lauren, have cashed in on the recent popularity of updated Ivy League and English styles. In keeping with men's broader fashion scope today, businessmen are dabbling in English and Italian suits that are conservative but not stodgy. The rigid Ivy League customer, Brooks Brothers' bread and butter, meanwhile is becoming extinct</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="193" freq="81" sense="Temporal.Synchrony" />
-            <example>IBM's $750 million debenture offering dominated activity in the corporate debt market.  Meanwhile, most investment-grade bonds ended unchanged to as much as 1/8 point higher</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP</cat>
-         <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast" />
-            <example>The worst crop damage occurred in the Midwestern Corn Belt and the northern Great Plains. What saved many farmers from a bad year was the opportunity to reclaim large quantities of grain and other crops that they had "mortgaged" to the government under price-support loan programs. With prices soaring, they were able to sell the reclaimed commodities at "considerable profit," the agency's 240-page report said.  In less parched areas, meanwhile, farmers who had little or no loss of production profited greatly from the higher prices</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Opposition" />
-            <example>Leading indicators rose a slight 0.2% in September, a further indication the economy is slowing but without any clear sign of whether a recession looms. Meanwhile, new-home sales plunged 14% in the month</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="193" freq="17" sense="Expansion.Conjunction" />
-            <example>the departures of names isn't likely to hurt its underwriting capacity, currently about #11 billion. Mr. Lawrence says the drain of funds has been offset by an increase in investments by the remaining names. Meanwhile, the exchange has been trying to lower costs</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="193" freq="1" sense="Comparison.Contrast.Juxtaposition" />
-            <example>their experiments showed that the antibody wiped out an average of 60% of AIDS-infected cells within three days. In some of the experiments, it killed almost all the infected cells, the researchers said. Meanwhile, fewer than 10% of the healthy cells were killed</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="193" freq="12" sense="Temporal.Synchrony" />
+            <pdtb2_relation anno_N="193" freq="93" sense="Temporal.Synchrony" />
             <example>American Medical accepted the offer, meanwhile indicating it had heard from two other suitors</example>
          </sem>
       </syn>
@@ -713,7 +616,7 @@
             <example>Without the Cray-3 research and development expenses, the company would have been able to report a profit of $19.3 million for the first half of 1989 rather than the $5.9 million it posted. On the other hand, had it existed then, Cray Computer would have incurred a $20.5 million loss</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="13" sense="Comparison.Contrast" />
+            <pdtb2_relation anno_N="37" freq="14" sense="Comparison.Contrast" />
             <example>If the market goes down, I figure it's paper profits I'm losing. On the other hand, if it goes way sky high, I always sell</example>
          </sem>
          <sem>
@@ -725,19 +628,8 @@
             <example>that the selling of cyclical stocks yesterday will be followed by a sell-off in shares of companies with big debt loads on their balance sheets. In an economic slowdown, heavy debt loads reduce the flexibility of companies because cash that would normally be used to keep the company buoyant must be diverted to interest payments.  On the other hand, investors beat a clear path yesterday to blue-chip issues with proven earnings growth records</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="37" freq="8" sense="Comparison.Contrast.Opposition" />
+            <pdtb2_relation anno_N="37" freq="9" sense="Comparison.Contrast.Opposition" />
             <example>After all, gold prices usually soar when inflation is high. Utility stocks, on the other hand, thrive on disinflation</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>PP-LOC</cat>
-         <sem>
-            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast" />
-            <example>Buying activity Tuesday centered on a wide range of midcapitalization, domestic demand-related shares whose prices range from 1,000 to 2,000 yen. Investors expect these shares will be targets of investment trust funds, which often buy small amounts spread across a wide range of issues.  On the other hand, high-priced shares such as Pioneer Electronic and Sony failed to spark investor interest</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="37" freq="1" sense="Comparison.Contrast.Opposition" />
-            <example>Among other technology issues, Cray Research rose 1 5/8 to 37, Hewlett-Packard added 1 1/4 to 50 1/4, Tandem Computers rallied 1 1/8 to 25 3/4, Data General rose 3/4 to 14 1/2 and Motorola gained 2 3/8 to 59 1/4.  On the other hand, Symbol Technologies dropped 1 1/4 to 18 1/2 after Shearson Lehman Hutton lowered its short-term investment rating on the stock and its 1989 earnings estimate, and Commodore International fell 7/8 to 8 after the company said it expects to post a loss for the September quarter</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -862,10 +754,14 @@
          </orth>
       </orths>
       <syn>
-         <cat>PP-TMP</cat>
+         <cat>PP</cat>
          <sem>
             <pdtb2_relation anno_N="9" freq="1" sense="Contingency.Cause.Result" />
             <example>Time executives complained about the shoddy editorial quality, and in the end, one Time executive who asked not to be identified said, "Frankly, McCall's and the joint venture were an embarrassment</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction" />
+            <example>to decide between the Chancellor and her adviser. In the end, neither policy was followed</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="9" freq="1" sense="Comparison.Contrast.Juxtaposition" />
@@ -886,13 +782,6 @@
          <sem>
             <pdtb2_relation anno_N="9" freq="1" sense="Temporal.Asynchronous.Precedence" />
             <example>We had lots of internal debate about this one," concedes Tadahiko Fukuyama, a senior public-relations official. "But in the end, top management decided to follow the voice of the younger generation</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>PP</cat>
-         <sem>
-            <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Conjunction" />
-            <example>to decide between the Chancellor and her adviser. In the end, neither policy was followed</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="9" freq="1" sense="Expansion.Restatement.Specification" />
@@ -948,25 +837,18 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-MNR</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="74" freq="1" sense="Expansion.Alternative" />
             <example>Merrill Lynch &amp; Co. recommended program-trading reforms late Friday, including higher margins on stock-index futures and greater regulatory coordination. Separately, Mr. Cayne of Bear Stearns said his firm is working with regulators to balance margin requirements to "enhance stabilization</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="74" freq="6" sense="Expansion.Conjunction" />
-            <example>In addition to owning HBO, with 22 million subscribers, Time Warner separately operates cable-TV system serving about 5.6 million cable-TV subscribers</example>
+            <pdtb2_relation anno_N="74" freq="72" sense="Expansion.Conjunction" />
+            <example>investor Carl Icahn has recently increased his stake in USX, which separately reported earnings that were in line with expectations</example>
          </sem>
-      </syn>
-      <syn>
-         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="74" freq="1" sense="Expansion.List" />
             <example>Federal National Mortgage Association -- $500 million of Remic mortgage securities being offered in 10 classes by Merrill Lynch Capital Markets. The offering, Series 1989-85, is backed by Fannie Mae 9% securities. Separately, a $400 million issue of Fannie Mae Remic mortgage securities is being offered in 15 classes by Bear, Stearns &amp; Co. The offering, Series 1989-86, is backed by Fannie Mae 9% securities</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="74" freq="66" sense="Expansion.Conjunction" />
-            <example>investor Carl Icahn has recently increased his stake in USX, which separately reported earnings that were in line with expectations</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -1095,29 +977,22 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="18" freq="4" sense="Temporal.Asynchronous.Precedence" />
-            <example>and who testified before the U.S. grand jury in Miami that would ultimately indict the Panamanian on drug charges</example>
+            <pdtb2_relation anno_N="18" freq="14" sense="Temporal.Asynchronous.Precedence" />
+            <example>who shepherded "Flashdance" through several scripts and ultimately produced the movie</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="18" freq="2" sense="Expansion.Conjunction" />
             <example>a clear majority of senators back the tax reduction and that ultimately there would be enough senators to overcome any procedural hurdle the Democratic leadership might erect</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="18" freq="1" sense="Expansion" />
-            <example>Last year, there were only several big investors who were interested," says Kinji Kato, a vice president at the international arm of Nomura Securities Co. "This year, some investors are changing their policies and investing a lot." Ultimately, he says, strong demand could help to drive down interest rates on mortgage securities</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP</cat>
-         <sem>
-            <pdtb2_relation anno_N="18" freq="10" sense="Temporal.Asynchronous.Precedence" />
-            <example>who shepherded "Flashdance" through several scripts and ultimately produced the movie</example>
-         </sem>
-         <sem>
             <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Restatement" />
             <example>Many specialist firms resent the Big Board's new "basket" product that allows institutions to buy or sell all stocks in the Standard &amp; Poor's 500-stock index in one shot. Ultimately, the specialists view this as yet another step toward electronic trading that could eventually destroy their franchise</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="18" freq="1" sense="Expansion" />
+            <example>Last year, there were only several big investors who were interested," says Kinji Kato, a vice president at the international arm of Nomura Securities Co. "This year, some investors are changing their policies and investing a lot." Ultimately, he says, strong demand could help to drive down interest rates on mortgage securities</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -1179,7 +1054,7 @@
          </sem>
       </syn>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="184" freq="1" sense="Temporal.Asynchronous.Precedence" />
             <example>In fact, he liberated the U.S. from one of the world's most corrupt organizations -- UNESCO. This is the U.N. group that managed to traduce its own charter of promoting education, science and culture. Ever since, the remaining members have been desperate for the United States to rejoin this dreadful group</example>
@@ -1227,7 +1102,7 @@
          </sem>
       </syn>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="326" freq="2" sense="Temporal.Asynchronous.Succession" />
             <example>In recent months, the technology has become more flexible and able to handle much more volume. Before, callers of 900 numbers would just listen and not talk, or they'd vote "yes" or "no" by calling one of two numbers</example>
@@ -1371,7 +1246,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="6" freq="6" sense="Temporal.Synchrony" />
             <example>by purchasing a stock and simultaneously buying a put option on that stock</example>
@@ -1484,7 +1359,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="11" freq="11" sense="Temporal.Asynchronous.Precedence" />
             <example>before the law is passed than to try to buy one afterward</example>
@@ -1508,22 +1383,8 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="78" freq="44" sense="Contingency.Cause.Result" />
-            <example>Polyvinyl chloride capacity "has overtaken demand and we are experiencing reduced profit margins as a result</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>PP-PRP</cat>
-         <sem>
-            <pdtb2_relation anno_N="78" freq="33" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="78" freq="78" sense="Contingency.Cause.Result" />
             <example>the second-quarter charge was "not material" and that no personnel changes were made as a result</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>PP-CLR</cat>
-         <sem>
-            <pdtb2_relation anno_N="78" freq="1" sense="Contingency.Cause.Result" />
-            <example>its effort would continue past the Nov. 1 deadline set in that agreement and that the litigation between the two sides might resume as a result</example>
          </sem>
       </syn>
       <pdtb_modifiers>
@@ -1625,24 +1486,10 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-PRP</cat>
-         <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result" />
-            <example>The restructuring calls for a 24% reduction in its work force over the next two months, affecting about 525 jobs, Cipher Data said. It is eliminating the positions of president and chief operating officer, formerly held by Edward L. Marinaro.  Cipher Data said Mr. Marinaro consequently has resigned from those posts and from the company's board</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="10" freq="8" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="10" freq="10" sense="Contingency.Cause.Result" />
             <example>to revise its business objectives and, consequently, to write down the asset value of some previous acquisitions</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP-TMP</cat>
-         <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Contingency.Cause.Result" />
-            <example>A consortium bid, however, would diminish GEC's direct role in Ferranti and might consequently appease ministry officials</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -1797,21 +1644,14 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="49" freq="2" sense="Comparison.Contrast.Juxtaposition" />
             <example>U.S. Trust recently introduced certain mutual-fund products, which allow it to serve customers with minimum deposits of $250,000. Previously, the company advertised at the $2 million level</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="49" freq="46" sense="Temporal.Asynchronous.Succession" />
+            <pdtb2_relation anno_N="49" freq="47" sense="Temporal.Asynchronous.Succession" />
             <example>Robert P. Tassinari, 63, was named senior vice president of Eastern Utilities. He was previously vice president</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP</cat>
-         <sem>
-            <pdtb2_relation anno_N="49" freq="1" sense="Temporal.Asynchronous.Succession" />
-            <example>For the past six years, Mr. Menell, 43 years old, served as vice president for government affairs at American Express. He previously was staff director and counsel for the Senate committee on banking, housing and urban affairs</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -1826,7 +1666,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="11" freq="10" sense="Temporal.Asynchronous.Precedence" />
             <example>They pay interest only for 115 months, with principal payments beginning thereafter</example>
@@ -1881,15 +1721,8 @@
             <example>Known as a traditional executive, he is very much in the conservative American Express mold. Moreover, after 26 years at Ogilvy he had honed a reputation for being squeaky-clean and a straight arrow -- which can only help American Express in the wake of the Safra incident</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="101" freq="99" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="101" freq="100" sense="Expansion.Conjunction" />
             <example>that its earnings performance has diminished this year from previous years. The firm's capital, moreover, hasn't grown at the same rate as in the past</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP-TMP</cat>
-         <sem>
-            <pdtb2_relation anno_N="101" freq="1" sense="Expansion.Conjunction" />
-            <example>For one thing, according to Mr. Daly, the producers requested a release in advance. Moreover, the old contract was about to expire, and the lineup of Guber Peters pictures for Warner wasn't as strong as it is now</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -1904,16 +1737,9 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-MNR</cat>
-         <sem>
-            <pdtb2_relation anno_N="18" freq="1" sense="Expansion.Conjunction" />
-            <example>Since its premiere Sept. 16, the show on which Ms. Chung appears has used an actor to portray the Rev. Vernon Johns, a civil-rights leader, and one to play a teenage drug dealer. It has depicted the bombing of Pan Am flight 103 over the Scottish town of Lockerbie. On Oct. 21, it did a rendition of the kidnapping and imprisonment of Associated Press correspondent Terry Anderson, who was abducted in March 1985 and is believed to be held in Lebanon. The production had actors playing Mr. Anderson and former hostages David Jacobsen, the Rev. Benjamin Weir and Father Lawrence Jenco.  ABC News has similarly branched out into entertainment gimmickry</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="18" freq="17" sense="Expansion.Conjunction" />
+            <pdtb2_relation anno_N="18" freq="18" sense="Expansion.Conjunction" />
             <example>Now the wildlife refuge has been closed to the industry, possibly for years. Similarly, a group of companies led by Chevron Corp. has been unable to pump oil found off the California coast in the early 1980s</example>
          </sem>
       </syn>
@@ -1951,20 +1777,13 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-MNR</cat>
-         <sem>
-            <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Restatement.Specification" />
-            <example>The privilege, however, has been limited in accordance with its plain language to protect the defendant in criminal matters only.  The Supreme Court and some states have specifically recognized that "the Fifth Amendment does not preclude the inference where the privilege is claimed by a party to a civil cause</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="10" freq="1" sense="Expansion.Conjunction" />
             <example>Within the IRS, nearly $1.95 billion is provided for processing tax returns, a 12% increase over fiscal 1989 and double what the government was spending five years ago. Investigation and taxpayer service accounts would grow to $1.6 billion, and Congress specifically added $7.4 million for stepped up criminal investigations of money laundering related to drug traffic</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="10" freq="8" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="10" freq="9" sense="Expansion.Restatement.Specification" />
             <example>Instead, a House subcommittee adopted a clean-fuels program that specifically mentions reformulated gasoline as an alternative</example>
          </sem>
       </syn>
@@ -1980,7 +1799,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="7" freq="5" sense="Temporal.Asynchronous.Precedence" />
             <example>and set out to repeat the Cavenee experiment in cells from other cancers. His was one of two research teams in 1984 to report dual chromosome losses for a rare childhood cancer of the kidney called Wilm's tumor.  Dr. Vogelstein next turned his attention to colon cancer, the second biggest cancer killer in the U.S. after lung cancer</example>
@@ -2009,16 +1828,9 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-MNR</cat>
-         <sem>
-            <pdtb2_relation anno_N="5" freq="1" sense="Contingency.Cause.Result" />
-            <example>to hire six people who would mirror the actual jury demographically, sit in on the trial and report their reactions to him. He then briefed Messrs. Boies and Barr, who had the chance to tilt their next day's presentation accordingly</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="5" freq="4" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="5" freq="5" sense="Contingency.Cause.Result" />
             <example>the outlook for natural gas is better than it is for oil, and have shifted their exploration and development budgets accordingly</example>
          </sem>
       </syn>
@@ -2485,16 +2297,9 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-MNR</cat>
-         <sem>
-            <pdtb2_relation anno_N="112" freq="1" sense="Contingency.Cause.Result" />
-            <example>ESB is aware that a hostile tender offer is being made by a foreign company for all of ESB's shares," said F.J. Port, ESB's president. "Hostile" thus entered the merger-acquisition lexicon</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="112" freq="102" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="112" freq="103" sense="Contingency.Cause.Result" />
             <example>to be newer and, thus, in step with the latest safety codes</example>
          </sem>
       </syn>
@@ -2742,7 +2547,7 @@
       <syn>
          <cat>PP</cat>
          <sem>
-            <pdtb2_relation anno_N="30" freq="17" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="30" freq="18" sense="Temporal.Asynchronous.Precedence" />
             <example>This activity produced small rallies, which in turn attracted new short selling</example>
          </sem>
          <sem>
@@ -2760,13 +2565,6 @@
          <sem>
             <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous" />
             <example>in winning top ratings for most asset-backed issues -- which in turn is why the yield above Treasurys is so slim</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>PP-TMP</cat>
-         <sem>
-            <pdtb2_relation anno_N="30" freq="1" sense="Temporal.Asynchronous.Precedence" />
-            <example>In a generation or two some of the New Crowd may attain true respectability, perhaps to be displaced in turn by a later flock of unscrupulous raptors</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -2882,248 +2680,6 @@
          </orth>
       </orths>
       <syn>
-         <cat>WHADVP-3</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical" />
-            <example>to have Marlowe jailed when it suits his purposes</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Pragmatic condition.Implicit assertion" />
-            <example>Mr. Dorfman provides confirming evidence of this phenomenon when he reports that your staff of dart throwers would have accumulated only $112,383 by randomly selecting four new stocks to be held in a portfolio each month</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="12" sense="Contingency.Condition.General" />
-            <example>that students could call when they have an urge to delay studying</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason" />
-            <example>Ten of the plant's workers were injured when the quake hit about a half-hour into the afternoon shift; seven were hospitalized</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
-            <example>a modest increase when compared with the sizzling expansion of years past</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="28" sense="Temporal.Asynchronous.Succession" />
-            <example>that had been rewarded when they didn't flee the market in 1987</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="79" sense="Temporal.Synchrony" />
-            <example>It's So Easy to Get Burned When Buying a Small Firm</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-2</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical" />
-            <example>that his committee approves covert operations only when there's a "consensus</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
-            <example>But it's nice when people say  I appear mechanically inclined</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Temporal" />
-            <example>that Navigation Mixte joined Paribas's core of shareholders when Paribas was denationalized in 1987</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="37" sense="Contingency.Condition.General" />
-            <example>When a company realizes that, it's hard to go with Wang</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="10" sense="Contingency.Cause.Reason" />
-            <example>which sometimes results when these problems go untreated for too long</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast.Opposition" />
-            <example>So why does Renaissance's computer like stocks with the Dow at 2653.28, where it closed yesterday, when it didn't with the Dow at 2200</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Contra-expectation" />
-            <example>And, the attorney general added, First Meridian's president, Roger V. Sala, portrayed himself as a "financial expert" when his qualifications largely consisted of a high-school diploma, work as a real-estate and insurance salesman, and a stint as supervisor at a highway toll booth</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
-            <example>why you should bother buying this stuff when you can get only slightly lower yields on government-guaranteed paper</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="60" sense="Temporal.Asynchronous.Succession" />
-            <example>When all is said and done, I expect to be fully exonerated</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Temporal.Asynchronous.Precedence" />
-            <example>to exercise influence when the Senate votes on the impeachment today</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Comparison.Concession.Expectation" />
-            <example>that is, a way of staying liquid even when they own stocks</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="153" sense="Temporal.Synchrony" />
-            <example>How was that practice referred to when I was in school</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-1</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Condition.Hypothetical" />
-            <example>But when market interest rates move up rapidly, increases in bank CD yields sometimes lag</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="8" sense="Contingency.Pragmatic condition.Implicit assertion" />
-            <example>That's a good sign when profits are stable during a time revenue is in the trough</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive" />
-            <example>Return on this fine portfolio has been modest when it has not been negative</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency" />
-            <example>his lead widens when the candidates are specifically linked to the issue</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Temporal" />
-            <example>When it was all over and stocks had staged a huge recovery, Big Board officials were self-congratulatory about how well the day had gone</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="67" sense="Contingency.Condition.General" />
-            <example>When it goes, you never know when you'll get it back</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="4" sense="Contingency.Cause.Reason" />
-            <example>three persons died when one of the buildings exploded into a fireball shortly after the quake struck</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast" />
-            <example>Why do you maintain the House-passed capital-gains plan is a "temporary" reduction when it is not</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Relevance" />
-            <example>and when the new mainframe does ship, I'm not sure it will be a big winner</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="120" sense="Temporal.Asynchronous.Succession" />
-            <example>that when he left baseball in 1978, he "never looked back</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Factual present" />
-            <example>That may be difficult, the Jaguar chairman acknowledged, "when you have somebody else breathing down your neck</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Comparison.Concession.Expectation" />
-            <example>Sex and violence are routinely included even when they are irrelevant to the script</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Precedence" />
-            <example>When he sent letters offering 1,250 retired major leaguers the chance of another season, 730 responded</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="263" sense="Temporal.Synchrony" />
-            <example>but when it comes down to it, he can be reasonable</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-14</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
-            <example>When the movie opens the Baker brothers are doing what they've done for 15 years professionally, and twice as long as that for themselves: They're playing proficient piano, face-to-face, on twin pianos</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-7</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
-            <example>I find it hard to ignore our environmental problems when I start my commute to work with eyes tearing and head aching from the polluted air; when I try to enjoy the beaches and come home covered with tar and oil; when I hear of numerous deaths related to irresponsible processing of cheese and use of chemicals in fruit growing</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-6</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Temporal.Synchrony" />
-            <example>Treasury Undersecretary David Mulford, for instance, was at a meeting of the Business Council in Hot Springs, Va., when the stock market fell</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Implicit assertion" />
-            <example>that America has always suffered from a bad case of schizophrenia when it comes to the dichotomy between what is professed and what is practiced</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Asynchronous.Succession" />
-            <example>And when Mr. Engelken asked him why he took time off from work for somebody he didn't even know, Bobby Thomson replied: "You know, Albert, if you have the chance in life to make somebody this happy, you have an obligation to do it</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-5</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="4" sense="Temporal.Asynchronous.Succession" />
-            <example>which are filled at the market price when the stop price is hit</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation" />
-            <example>Under current rules, even when a network fares well with a 100%-owned series -- ABC, for example, made a killing in broadcasting its popular crime/comedy "Moonlighting" -- it isn't allowed to share in the continuing proceeds when the reruns are sold to local stations</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.General" />
-            <example>that is often whitish when taken from the ground</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Synchrony" />
-            <example>for going out and buying stocks when the panic was the worst</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP-4</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Cause.Reason" />
-            <example>Unhappily, our gardeners for ages have suffered at the hands of the decorative artist when applying his `designs' to the garden</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Expectation" />
-            <example>like, `Why do you make 15 different corkscrews, when all you need is one good one</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="17" sense="Temporal.Synchrony" />
-            <example>Then, when it would have been easier to resist them, nothing was done</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="9" sense="Contingency.Condition.General" />
-            <example>when there's snow and ice, how's this car going to perform</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="7" sense="Temporal.Asynchronous.Succession" />
-            <example>to be given to patients by their doctors when the medicines are prescribed</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHADVP</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Hypothetical" />
-            <example>Builders get away with using sand and financiers junk when society decides it's okay, necessary even, to look the other way</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="5" sense="Temporal.Asynchronous.Succession" />
-            <example>what can happen when a tiny company suddenly faces the full legal might of a wrathful multinational</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Cause.Reason" />
-            <example>Later yesterday the nation's major auto makers added to the gloom when they each reported their core auto operations were net losers in the third quarter</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="2" sense="Contingency.Condition.General" />
-            <example>the companies earn more and win a bigger market share when their American employees get a voice in planning, product development and design, including decision-making back in Japan</example>
-         </sem>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="21" sense="Temporal.Synchrony" />
-            <example>At times I sequester my mind  When I must think with precision</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>WHNP-4</cat>
-         <sem>
-            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
-            <example>When research projects are curtailed due to government funding cuts, are we "caught with our grants down</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>phrase</cat>
          <sem>
             <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Condition.Hypothetical" />
@@ -3152,6 +2708,80 @@
          <sem>
             <pdtb2_relation anno_N="989" freq="14" sense="Temporal.Synchrony" />
             <example>Even when I hear it played badly, I'm still humbled by the piece</example>
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHADVP</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="11" sense="Contingency.Condition.Hypothetical" />
+            <example>that his committee approves covert operations only when there's a "consensus</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="12" sense="Contingency.Pragmatic condition.Implicit assertion" />
+            <example>That's a good sign when profits are stable during a time revenue is in the trough</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Expansion.Alternative.Disjunctive" />
+            <example>Return on this fine portfolio has been modest when it has not been negative</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency" />
+            <example>his lead widens when the candidates are specifically linked to the issue</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="5" sense="Temporal" />
+            <example>that Navigation Mixte joined Paribas's core of shareholders when Paribas was denationalized in 1987</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="130" sense="Contingency.Condition.General" />
+            <example>When it goes, you never know when you'll get it back</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="19" sense="Contingency.Cause.Reason" />
+            <example>which sometimes results when these problems go untreated for too long</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast" />
+            <example>Why do you maintain the House-passed capital-gains plan is a "temporary" reduction when it is not</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Concession.Contra-expectation" />
+            <example>And, the attorney general added, First Meridian's president, Roger V. Sala, portrayed himself as a "financial expert" when his qualifications largely consisted of a high-school diploma, work as a real-estate and insurance salesman, and a stint as supervisor at a highway toll booth</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Contingency.Pragmatic condition.Relevance" />
+            <example>and when the new mainframe does ship, I'm not sure it will be a big winner</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="225" sense="Temporal.Asynchronous.Succession" />
+            <example>that when he left baseball in 1978, he "never looked back</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="3" sense="Contingency.Condition.Factual present" />
+            <example>a modest increase when compared with the sizzling expansion of years past</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="7" sense="Comparison.Concession.Expectation" />
+            <example>that is, a way of staying liquid even when they own stocks</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Comparison.Contrast.Opposition" />
+            <example>So why does Renaissance's computer like stocks with the Dow at 2653.28, where it closed yesterday, when it didn't with the Dow at 2200</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="4" sense="Temporal.Asynchronous.Precedence" />
+            <example>to exercise influence when the Senate votes on the impeachment today</example>
+         </sem>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="544" sense="Temporal.Synchrony" />
+            <example>but when it comes down to it, he can be reasonable</example>
+         </sem>
+      </syn>
+      <syn>
+         <cat>WHNP</cat>
+         <sem>
+            <pdtb2_relation anno_N="989" freq="1" sense="Temporal.Synchrony" />
+            <example>When research projects are curtailed due to government funding cuts, are we "caught with our grants down</example>
          </sem>
       </syn>
       <pdtb_modifiers>
@@ -3480,19 +3110,12 @@
             <example>that both PPI and CPI climbed around 4 1/2% year-to-year in September. He argued that both CPI and PPI have in fact decelerated since spring</example>
          </sem>
          <sem>
-            <pdtb2_relation anno_N="82" freq="35" sense="Expansion.Restatement.Specification" />
+            <pdtb2_relation anno_N="82" freq="36" sense="Expansion.Restatement.Specification" />
             <example>but they seem to be genuine -- so much so, in fact, that some older employees have resisted</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="82" freq="2" sense="Expansion.Restatement" />
             <example>Warner denies Mr. Ross ever said any such thing, and, in fact, denies virtually everything Mr. Guber and Mr. Peters say in their affidavits</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>PP-LOC</cat>
-         <sem>
-            <pdtb2_relation anno_N="82" freq="1" sense="Expansion.Restatement.Specification" />
-            <example>And most of the truly big scams in Orange County seem to originate in Newport Beach or one of the other well-heeled communities that surround this sliver-like city that hooks around a point of land on the California coast south of Los Angeles.  In fact, sophisticated big-bucks boiler-room scams are known generically among law-enforcement types as "Newport Beach" operations</example>
          </sem>
       </syn>
       <pdtb_modifiers />
@@ -3507,7 +3130,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="15" freq="1" sense="Comparison.Contrast.Juxtaposition" />
             <example>Transportation Secretary Sam Skinner, who earlier fueled the anti-takeover fires with his quasi-xenophobic attacks on foreign investment in U.S. carriers, now says the bill would further disturb the jittery capital markets</example>
@@ -3704,21 +3327,14 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="91" freq="89" sense="Temporal.Asynchronous.Precedence" />
+            <pdtb2_relation anno_N="91" freq="90" sense="Temporal.Asynchronous.Precedence" />
             <example>that are low in the early years after issuance and rise later</example>
          </sem>
          <sem>
             <pdtb2_relation anno_N="91" freq="1" sense="Expansion.Conjunction" />
             <example>Appalled, Mr. Green never paid the money, he testified. But he didn't complain to the state's Judicial Inquiry and Review Board, either, saying later that he feared retribution</example>
-         </sem>
-      </syn>
-      <syn>
-         <cat>ADVP</cat>
-         <sem>
-            <pdtb2_relation anno_N="91" freq="1" sense="Temporal.Asynchronous.Precedence" />
-            <example>Mr. Chan, now 64 years old, invented a fountain pen he and his family produced from plastic waste. Later, he marketed glue</example>
          </sem>
       </syn>
       <pdtb_modifiers>
@@ -3779,16 +3395,9 @@
          </sem>
       </syn>
       <syn>
-         <cat>ADVP-MNR</cat>
-         <sem>
-            <pdtb2_relation anno_N="263" freq="1" sense="Contingency.Cause.Result" />
-            <example>In this era of frantic competition for ad dollars, a lot of revenue-desperate magazines are getting pretty cozy with advertisers -- fawning over them in articles and offering pages of advertorial space. So can a magazine survive by downright thumbing its nose at major advertisers</example>
-         </sem>
-      </syn>
-      <syn>
          <cat>ADVP</cat>
          <sem>
-            <pdtb2_relation anno_N="263" freq="48" sense="Contingency.Cause.Result" />
+            <pdtb2_relation anno_N="263" freq="49" sense="Contingency.Cause.Result" />
             <example>The dollar hasn't reacted much to it, so gold hasn't either</example>
          </sem>
       </syn>
@@ -3822,7 +3431,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>PP-TMP</cat>
+         <cat>PP</cat>
          <sem>
             <pdtb2_relation anno_N="7" freq="2" sense="Temporal.Asynchronous.Precedence" />
             <example>TW's stockholder meeting was postponed from tomorrow to Nov. 21. By then, DLJ hopes to be able to sell less-junky junk bonds</example>
@@ -3858,7 +3467,7 @@
          </orth>
       </orths>
       <syn>
-         <cat>ADVP-TMP</cat>
+         <cat>ADVP</cat>
          <sem>
             <pdtb2_relation anno_N="84" freq="2" sense="Temporal.Asynchronous.Succession" />
             <example>Once there, what ways of escape are open to them other than drink, drugs or insanity</example>
